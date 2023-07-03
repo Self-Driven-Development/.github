@@ -1,10 +1,6 @@
 # Self Driven Development
 
-
-> 같이 모여서 TIL을 작성하는 모임입니다.
-
-
-## 참여자
+## 멤버
 
 <table>
   <tr>
